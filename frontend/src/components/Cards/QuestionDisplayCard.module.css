@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  border: solid 1px black;
+  justify-content: space-between;
+  font-size: 20px;
+  font-family: "Montserrat";
+  align-items: center;
+  margin: 20px 60px;
+  text-align: center;
+}
+
+.col1 {
+  width: 20%;
+  padding: 10px;
+  background-color: burlywood;
+}
+.col2 {
+  width: 60%;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.col3 {
+  width: 20%;
+  padding: 10px;
+  background-color: #ffd700;
+  border: none;
+}
+.col3:hover {
+  cursor: pointer;
+  background-color: #d0b51a;
+}

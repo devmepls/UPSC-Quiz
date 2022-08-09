@@ -1,0 +1,19 @@
+.wrapper {
+  margin: 2px 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.button {
+  margin-top: 30px;
+  padding: 0px 30px;
+  width: 60%;
+}
+.wrapper1 {
+  margin-top: 30px;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Montserrat";
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+.button {
+  margin-top: 10px;
+  padding: 0px 30px;
+  width: 60%;
+}
+.heading {
+  font-size: 40px;
+  font-family: "Montserrat";
+}
+.heading1 {
+  font-size: 15px;
+  font-family: "Montserrat";
+}
+.heading2 {
+  font-size: 15px;
+  font-family: "Montserrat";
+}
+.wrapper {
+  margin: 2px 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
